@@ -1,0 +1,14 @@
+node_modules
+build
+admin/node_modules
+admin/public/hot
+admin/public/storage
+admin/storage/*.key
+admin/vendor
+admin/.env
+admin/.env.backup
+admin/.phpunit.result.cache
+admin/Homestead.json
+admin/Homestead.yaml
+admin/npm-debug.log
+admin/yarn-error.log
